@@ -1,0 +1,7 @@
+Ideas para el analisis exploratorio
+
+sobre notebook 05:
+-#IDEA: hacer un grafico de lineas, y mostrar como fue variando el alquiler
+ #de bicicletas a traves de 2013,2014 y 2015
+-#otro enfoque: hacer visus, bart chart apilado: eje x cada año, cada barra tiene 10 colores
+ #o menos, que representa los 10 estaciones de salida/llegada que mas se usaron
